@@ -27,3 +27,6 @@ RefactoringAction 1443692032096 TestSudokuVerifier.java ADD String tooLongString
 RefactoringAction 1443692035113 TestSudokuVerifier.java ADD void test81StringsCorrectString()/2 METHOD
 RefactoringAction 1443692043629 TestSudokuVerifier.java REMOVE test81StringsCorrectString()/2 METHOD
 EditAction 1443692069287 TestSudokuVerifier.java 856 2 6 2
+UnitTestCaseAction 1443692069568 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692069568 TestSudokuVerifier FAIL
+EditAction 1443692095891 TestSudokuVerifier.java 856 2 6 2

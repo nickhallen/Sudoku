@@ -21,7 +21,7 @@ public class TestSudokuVerifier {
 	@Test
 	public void test81StringsInCorrectString() {
 		SudokuVerifier sudoku=new SudokuVerifier();
-		int test= sudoku.verify(correctString);
+		int test= sudoku.verify(tooLongString);
 		assertEquals (test, test=-5);
 		
 	}
