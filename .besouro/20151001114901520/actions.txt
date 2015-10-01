@@ -43,3 +43,20 @@ EditAction 1443692620405 TestSudokuVerifier.java 864 2 6 2
 UnitTestCaseAction 1443692620710 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443692620710 TestSudokuVerifier OK
 EditAction 1443692627490 TestSudokuVerifier.java 863 2 6 2
+UnitTestCaseAction 1443692627781 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692627781 TestSudokuVerifier FAIL
+RefactoringAction 1443692753367 TestSudokuVerifier.java ADD void test FIELD
+RefactoringAction 1443692754882 TestSudokuVerifier.java RENAME test=>void testRule FIELD
+RefactoringAction 1443692759897 TestSudokuVerifier.java RENAME testRule=>void testRule1Result FIELD
+RefactoringAction 1443692762413 TestSudokuVerifier.java RENAME testRule1Result=>void testRule1Results0 FIELD
+RefactoringAction 1443692766928 TestSudokuVerifier.java RENAME testRule1Results0=>void testRule1Results0() METHOD
+RefactoringAction 1443692839187 TestSudokuVerifier.java ADD SudokuVerifier sudoku FIELD
+RefactoringAction 1443692872812 TestSudokuVerifier.java ADD String notOnlyDigitsString FIELD
+RefactoringAction 1443692877329 TestSudokuVerifier.java ADD SudokuVerifier sudoku/2 FIELD
+RefactoringAction 1443692880845 TestSudokuVerifier.java REMOVE sudoku/2 FIELD
+RefactoringAction 1443692942543 TestSudokuVerifier.java ADD void testRule1Results0()/2 METHOD
+RefactoringAction 1443692954590 TestSudokuVerifier.java RENAME testRule1Results0()/2=>void testRule1Results() METHOD
+RefactoringAction 1443692956110 TestSudokuVerifier.java RENAME testRule1Results()=>void testRule1Results FIELD
+RefactoringAction 1443692960642 TestSudokuVerifier.java RENAME testRule1Results()=>void testRule1ResultsMinus() METHOD
+RefactoringAction 1443692961659 TestSudokuVerifier.java RENAME testRule1ResultsMinus()=>void testRule1ResultsMinus1() METHOD
+EditAction 1443692986494 TestSudokuVerifier.java 1206 4 8 4
