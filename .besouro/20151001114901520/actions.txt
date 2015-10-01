@@ -16,3 +16,14 @@ EditAction 1443691821232 TestSudokuVerifier.java 538 1 3 1
 UnitTestCaseAction 1443691821511 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443691821511 TestSudokuVerifier FAIL
 EditAction 1443691834563 TestSudokuVerifier.java 538 1 3 1
+UnitTestCaseAction 1443691834850 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443691834851 TestSudokuVerifier OK
+RefactoringAction 1443691911270 TestSudokuVerifier.java RENAME test()=>void test81() METHOD
+RefactoringAction 1443691913786 TestSudokuVerifier.java RENAME test81()=>void test81Strings() METHOD
+RefactoringAction 1443691917298 TestSudokuVerifier.java RENAME test81Strings()=>void test81StringsCorrectString() METHOD
+RefactoringAction 1443691929312 TestSudokuVerifier.java ADD void test81StringsCorrectString()/2 METHOD
+RefactoringAction 1443691939826 TestSudokuVerifier.java RENAME test81StringsCorrectString()/2=>void test81StringsInCorrectString() METHOD
+RefactoringAction 1443692032096 TestSudokuVerifier.java ADD String tooLongString FIELD
+RefactoringAction 1443692035113 TestSudokuVerifier.java ADD void test81StringsCorrectString()/2 METHOD
+RefactoringAction 1443692043629 TestSudokuVerifier.java REMOVE test81StringsCorrectString()/2 METHOD
+EditAction 1443692069287 TestSudokuVerifier.java 856 2 6 2
