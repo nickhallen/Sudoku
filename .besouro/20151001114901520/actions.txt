@@ -75,3 +75,6 @@ RefactoringAction 1443693682438 SudokuVerifier.java ADD int rule1(String)/2 METH
 RefactoringAction 1443693687954 SudokuVerifier.java RENAME rule1(String)/2=>int rule3(String) METHOD
 EditAction 1443694320068 TestSudokuVerifier.java 1468 6 12 6
 EditAction 1443694320168 SudokuVerifier.java 813 4 8 0
+UnitTestCaseAction 1443694321323 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443694321323 TestSudokuVerifier FAIL
+EditAction 1443694329721 TestSudokuVerifier.java 1469 6 12 6
