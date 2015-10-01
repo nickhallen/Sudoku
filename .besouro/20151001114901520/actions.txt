@@ -30,3 +30,13 @@ EditAction 1443692069287 TestSudokuVerifier.java 856 2 6 2
 UnitTestCaseAction 1443692069568 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443692069568 TestSudokuVerifier FAIL
 EditAction 1443692095891 TestSudokuVerifier.java 856 2 6 2
+UnitTestCaseAction 1443692096166 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692096167 TestSudokuVerifier OK
+RefactoringAction 1443692260522 SudokuVerifier.java RENAME rule1(String)=>int ruleLength(String) METHOD
+RefactoringAction 1443692493549 SudokuVerifier.java RENAME ruleLength(String)=>int rule(String) METHOD
+RefactoringAction 1443692494563 SudokuVerifier.java RENAME rule(String)=>int rule1(String) METHOD
+RefactoringAction 1443692533907 SudokuVerifier.java ADD int ruleLen FIELD
+RefactoringAction 1443692535421 SudokuVerifier.java RENAME ruleLen=>int ruleLength FIELD
+RefactoringAction 1443692537935 SudokuVerifier.java RENAME ruleLength=>int ruleLength() METHOD
+RefactoringAction 1443692545461 SudokuVerifier.java RENAME ruleLength()=>int ruleLength(String) METHOD
+EditAction 1443692620405 TestSudokuVerifier.java 864 2 6 2
