@@ -74,3 +74,4 @@ RefactoringAction 1443693674427 SudokuVerifier.java REMOVE ruleLength(String)/2 
 RefactoringAction 1443693682438 SudokuVerifier.java ADD int rule1(String)/2 METHOD
 RefactoringAction 1443693687954 SudokuVerifier.java RENAME rule1(String)/2=>int rule3(String) METHOD
 EditAction 1443694320068 TestSudokuVerifier.java 1468 6 12 6
+EditAction 1443694320168 SudokuVerifier.java 813 4 8 0
