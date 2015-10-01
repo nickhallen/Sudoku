@@ -22,7 +22,7 @@ public class TestSudokuVerifier {
 	public void test81StringsInCorrectString() {
 		SudokuVerifier sudoku=new SudokuVerifier();
 		int test= sudoku.ruleLength(tooLongString);
-		assertEquals (test, test=-5);
+		assertEquals (test, test=1);
 		
 	}
 }

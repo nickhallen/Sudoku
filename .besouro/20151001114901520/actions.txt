@@ -40,3 +40,6 @@ RefactoringAction 1443692535421 SudokuVerifier.java RENAME ruleLen=>int ruleLeng
 RefactoringAction 1443692537935 SudokuVerifier.java RENAME ruleLength=>int ruleLength() METHOD
 RefactoringAction 1443692545461 SudokuVerifier.java RENAME ruleLength()=>int ruleLength(String) METHOD
 EditAction 1443692620405 TestSudokuVerifier.java 864 2 6 2
+UnitTestCaseAction 1443692620710 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692620710 TestSudokuVerifier OK
+EditAction 1443692627490 TestSudokuVerifier.java 863 2 6 2

@@ -6,3 +6,11 @@
 1443692096170 test-addition 1 184 true
 1443692096171 test-addition 2 184 true
 1443692096172 test-addition 1 184 true
+1443692620710 refactoring 2B 360 true
+1443692620711 refactoring 2B 360 true
+1443692620712 refactoring 2B 360 true
+1443692620713 regression 1 360 true
+1443692620714 refactoring 2B 360 true
+1443692620715 refactoring 2B 360 true
+1443692620716 refactoring 2B 360 true
+1443692620717 refactoring 2B 360 true
