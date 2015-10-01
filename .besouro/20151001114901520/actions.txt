@@ -60,3 +60,17 @@ RefactoringAction 1443692956110 TestSudokuVerifier.java RENAME testRule1Results(
 RefactoringAction 1443692960642 TestSudokuVerifier.java RENAME testRule1Results()=>void testRule1ResultsMinus() METHOD
 RefactoringAction 1443692961659 TestSudokuVerifier.java RENAME testRule1ResultsMinus()=>void testRule1ResultsMinus1() METHOD
 EditAction 1443692986494 TestSudokuVerifier.java 1206 4 8 4
+UnitTestCaseAction 1443692986775 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692986775 TestSudokuVerifier OK
+RefactoringAction 1443693350786 TestSudokuVerifier.java ADD void testRule1Results0()/2 METHOD
+RefactoringAction 1443693354308 TestSudokuVerifier.java RENAME testRule1Results0()/2=>void testRule3Results0() METHOD
+RefactoringAction 1443693359843 TestSudokuVerifier.java ADD void testRule1Results0()/2 METHOD
+RefactoringAction 1443693362860 TestSudokuVerifier.java RENAME testRule1Results0()/2=>void testRule3Results0()/2 METHOD
+RefactoringAction 1443693367379 TestSudokuVerifier.java RENAME testRule3Results0()/2=>void testRule3Results() METHOD
+RefactoringAction 1443693370899 TestSudokuVerifier.java RENAME testRule3Results()=>void testRule3ResultsMinus() METHOD
+RefactoringAction 1443693371917 TestSudokuVerifier.java RENAME testRule3ResultsMinus()=>void testRule3ResultsMinus3() METHOD
+RefactoringAction 1443693669419 SudokuVerifier.java ADD int ruleLength(String)/2 METHOD
+RefactoringAction 1443693674427 SudokuVerifier.java REMOVE ruleLength(String)/2 METHOD
+RefactoringAction 1443693682438 SudokuVerifier.java ADD int rule1(String)/2 METHOD
+RefactoringAction 1443693687954 SudokuVerifier.java RENAME rule1(String)/2=>int rule3(String) METHOD
+EditAction 1443694320068 TestSudokuVerifier.java 1468 6 12 6
