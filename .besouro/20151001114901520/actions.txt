@@ -1,0 +1,9 @@
+FileOpenedAction 1443689341836 TestSudokuVerifier.java 216 1 1 0
+RefactoringAction 1443690956005 SudokuVerifier.java RENAME <initializer /1>=>int i FIELD
+RefactoringAction 1443690958022 SudokuVerifier.java ADD rule int1 FIELD
+RefactoringAction 1443690976556 SudokuVerifier.java REMOVE int1 FIELD
+RefactoringAction 1443690980592 SudokuVerifier.java ADD int rule FIELD
+RefactoringAction 1443690981608 SudokuVerifier.java RENAME rule=>int rule1 FIELD
+RefactoringAction 1443691165230 TestSudokuVerifier.java ADD String correctString FIELD
+RefactoringAction 1443691183809 TestSudokuVerifier.java ADD String incorrectString FIELD
+EditAction 1443691762142 TestSudokuVerifier.java 538 1 3 1
